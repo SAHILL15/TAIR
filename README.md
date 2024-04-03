@@ -1,2 +1,2 @@
 # TAIR
-TECH-A-INTERN ( Wwb Development
+TECH-A-INTERN (Web Development Internship)
